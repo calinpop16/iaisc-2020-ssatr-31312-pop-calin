@@ -1,0 +1,5 @@
+Marcajul initial: 1 0 0 0 1 0 1 0 0 0 0 0 0 0 
+Marcajul Curent: 0 0 0 0 1 0 1 0 0 0 0 0 0 0 
+Marcajul initial: 1 0 0 0 1 0 1 0 0 0 0 0 0 0 
+Marcajul Curent: 0 0 0 0 1 0 1 0 0 0 0 0 0 0 
+Deadlock

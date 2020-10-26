@@ -1,0 +1,45 @@
+{
+"nodes":[
+  {
+    "id":P0,
+    "jeton":1}, 
+    {
+    "id":P1,
+    "jeton":0},
+    {
+      "id":P2,
+      "jeton":0}
+  ],
+  
+  "transitions":[
+    {
+      "inputs":[
+        {
+          "id":P0
+        }
+        ],
+        "outputs":[
+          {
+            "id":P1
+          }
+          ],
+	  "tmin":1,
+          "tmax":2
+          
+    },
+        {
+      "inputs":[
+        {
+          "id":P1
+        }
+        ],
+        "outputs":[
+          {
+            "id":P2
+          }
+          ],
+          "tmin":2,
+          "tmax":3
+    }       
+    ]
+}

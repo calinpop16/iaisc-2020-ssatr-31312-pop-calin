@@ -1,0 +1,10 @@
+->Pentru a citi fisierul Json am folosit libraria gson 2.8.6, aceasta librarie trebuie descarcata si adaugata in proiect.
+
+->Fisierul .json se va afla in folderul cu codul sursa pentru a putea fi citit.
+
+->Fisierul petri_net.json contine reteaua petri data pentru test, iar fisierul petrinet_simple.json contine o retea mai simpla
+pentru testele din timpul crearii codului.
+
+->Aplicatia se va rula din clasa SimulationEngine (acolo se afla functia main).
+
+->Dupa rulare aplicatia va scrie atat la consola cat si intr-un fisier rezultatul simularii.
